@@ -3,6 +3,9 @@
 	"version": "1.0.0",
 	"description": "Very fast and very good JavaScript library",
 	"main": "vquery.js",
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"test": "echo 'R29vZCB0byBnbyEg8J+RjQo=' | base64 -d"
 	},
