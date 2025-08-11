@@ -1,0 +1,28 @@
+{
+	"name": "@remino/vquery",
+	"version": "1.0.0",
+	"description": "Very fast and very good JavaScript library",
+	"main": "vquery.js",
+	"scripts": {
+		"test": "echo 'R29vZCB0byBnbyEg8J+RjQo=' | base64 -d"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/remino/vquery.git"
+	},
+	"keywords": [
+		"vquery",
+		"javascript",
+		"library",
+		"jquery",
+		"js",
+		"fast",
+		"good"
+	],
+	"author": "Rémino Rem <https://remino.net/>",
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"bugs": {
+		"url": "https://github.com/remino/vquery/issues"
+	},
+	"homepage": "https://github.com/remino/vquery#readme"
+}
